@@ -17,7 +17,9 @@
   <exec_depend>torsten_driver</exec_depend>
   <exec_depend>torsten_msgs</exec_depend>
   <exec_depend>torsten_navigation</exec_depend>
-  <exec_depend>torsten_simulation</exec_depend>
+  <exec_depend>torsten_gazebo_control</exec_depend>
+  <exec_depend>torsten_gazebo_robot</exec_depend>
+  <exec_depend>torsten_gazebo_world</exec_depend>
 
   <export>
     <metapackage/>

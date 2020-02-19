@@ -18,30 +18,30 @@
   <run_depend>rospy</run_depend>
   <run_depend>std_msgs</run_depend>
 
-  <exec_depend>amcl</exec_depend>
-  <exec_depend>map_server</exec_depend>
+  <run_depend>amcl</run_depend>
+  <run_depend>map_server</run_depend>
 
-  <exec_depend>move_base</exec_depend>
-  <exec_depend>sbpl_lattice_planner</exec_depend>
+  <run_depend>move_base</run_depend>
+  <run_depend>sbpl_lattice_planner</run_depend>
 
-  <exec_depend>teb_local_planner</exec_depend>
-  <exec_depend>global_planner</exec_depend>
-  <exec_depend>base_local_planner</exec_depend>
-  <exec_depend>costmap_2d</exec_depend>
-  <exec_depend>costmap_converter</exec_depend>
+  <run_depend>teb_local_planner</run_depend>
+  <run_depend>global_planner</run_depend>
+  <run_depend>base_local_planner</run_depend>
+  <run_depend>costmap_2d</run_depend>
+  <run_depend>costmap_converter</run_depend>
 
-  <exec_depend>dynamic_reconfigure</exec_depend>
-  <exec_depend>geometry_msgs</exec_depend>
-  <exec_depend>interactive_markers</exec_depend>
-  <exec_depend>libg2o</exec_depend>
-  <exec_depend>nav_core</exec_depend>
-  <exec_depend>nav_msgs</exec_depend>
-  <exec_depend>pluginlib</exec_depend>
-  <exec_depend>roscpp</exec_depend>
-  <exec_depend>std_msgs</exec_depend>
-  <exec_depend>tf</exec_depend>
-  <exec_depend>tf_conversions</exec_depend>
-  <exec_depend>visualization_msgs</exec_depend>
+  <run_depend>dynamic_reconfigure</run_depend>
+  <run_depend>geometry_msgs</run_depend>
+  <run_depend>interactive_markers</run_depend>
+  <run_depend>libg2o</run_depend>
+  <run_depend>nav_core</run_depend>
+  <run_depend>nav_msgs</run_depend>
+  <run_depend>pluginlib</run_depend>
+  <run_depend>roscpp</run_depend>
+  <run_depend>std_msgs</run_depend>
+  <run_depend>tf</run_depend>
+  <run_depend>tf_conversions</run_depend>
+  <run_depend>visualization_msgs</run_depend>
 
   <export>
   </export>
